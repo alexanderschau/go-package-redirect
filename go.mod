@@ -1,4 +1,4 @@
-module go.alxs.xyz/go-package-redirect
+module go.alxs.xyz/package-redirect
 
 go 1.16
 
